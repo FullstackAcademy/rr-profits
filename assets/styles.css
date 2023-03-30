@@ -15,3 +15,16 @@ nav {
   display: flex;
   justify-content: space-around;
 }
+
+li.selected {
+  background-color: dodgerblue;
+}
+
+li.selected a {
+  color: cornsilk
+}
+
+.twoColumn {
+  display: flex;
+  flex-direction: row;
+}
